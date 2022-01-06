@@ -1,0 +1,8 @@
+# Ignore Mac system files
+*.DS_store
+
+# Ignore Database files
+.db4o
+
+
+/AssignmentFive/dist/
